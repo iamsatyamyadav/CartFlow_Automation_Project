@@ -1,5 +1,5 @@
-# QKART-Testing
-The application under test is QKart, an e-commerce platform.
+# CartFlow-Testing
+The application under test is CartFlow, an e-commerce platform.
 
 
 
@@ -7,7 +7,7 @@ The application under test is QKart, an e-commerce platform.
 
 > ***The TestNG script is designed to evaluate the functionality of a dummy e-commerce website. The script performs various tests, checking functionalities, and maintains an Excel file  to store the results of Sanity and Regression testing.***
 
-## QKart Shopping Interface (Products page)
+## CartFlow Shopping Interface (Products page)
 ![image](https://github.com/iamsatyamyadav/Qkart_Automation_Project/assets/103804433/d365789f-f3e3-4432-9e53-c96144331f1f)
 
 
